@@ -1,0 +1,3 @@
+/home/paryul/SPRING19/GRAPHICS/ASSIGNMENTS/A2/jet_fighterV1.0/build/CMakeFiles/rebuild_cache.dir
+/home/paryul/SPRING19/GRAPHICS/ASSIGNMENTS/A2/jet_fighterV1.0/build/CMakeFiles/graphics_asgn1.dir
+/home/paryul/SPRING19/GRAPHICS/ASSIGNMENTS/A2/jet_fighterV1.0/build/CMakeFiles/edit_cache.dir
